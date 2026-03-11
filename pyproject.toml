@@ -23,7 +23,7 @@ dependencies = [
     "beautifulsoup4>=4.13.4",
     "httpx>=0.28.1",
     "humanize>=4.11.0",
-    "mcp @ git+https://github.com/modelcontextprotocol/python-sdk.git@main",
+    "mcp>=1.25,<2",
     "platformdirs>=4.0.0",
     "rich>=13.10.0",
     "structlog>=25.4.0",

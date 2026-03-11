@@ -33,7 +33,7 @@ setup(
         "aiofiles>=24.1.0",
         "beautifulsoup4>=4.13.4",
         "httpx>=0.28.1",
-        "mcp @ git+https://github.com/modelcontextprotocol/python-sdk.git@main",
+        "mcp>=1.25,<2",
         "platformdirs>=4.0.0",
         "structlog>=25.4.0",
     ],
